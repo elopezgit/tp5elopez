@@ -1,6 +1,6 @@
 <!-- Project logo -->
 <div align ='center'>
-    <a href = 'https://nexus-89i.netlify.app'>
+    <a href = 'https://tp5ej1-elopez.netlify.app/'>
     <img src='./img/imgdombom.webp' alt = 'NexusLogo' width = '300' />
     </a>
     <h1>Trabajo Practico N° 5</h1>
@@ -8,15 +8,15 @@
     Ej N°1
     </p>
     <br>
-    <a href = 'https://nexus-89i.netlify.app'>
+    <a href = 'https://tp5ej1-elopez.netlify.app/'>
     <strong>Explorar página</strong>
     </a>
     <br>
-    <a href = 'https://nexus-89i.netlify.app'>
+    <a href = 'https://tp5ej1-elopez.netlify.app/'>
     Solicitar una mejora
     </a>
     .
-    <a href = 'https://nexus-89i.netlify.app'>
+    <a href = 'https://tp5ej1-elopez.netlify.app/'>
     Soporte
     </a>
     <br><br>
