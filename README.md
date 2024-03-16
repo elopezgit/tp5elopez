@@ -87,13 +87,12 @@ _Esteban Alejandro López_
 
 | Medio    | Link                                                    |
 | -------- | ------------------------------------------------------- |
-| Email    | [nexus@gmail.com](mailto:nexus@gmail.com)               |
-| Twitter  | [Perfil de Twitter](https://twitter.com/nexus)          |
-| LinkedIn | [Perfil de LinkedIn](https://www.linkedin.com/in/nexus) |
+| Email    | [lopezestebanalejandro@gmail.com](mailto:lopezestebanalejandro@gmail.com)               |
+
 
 ## 📄 Licencia
 
-Codigo y documentación copyright 2023-2024 de los autores de NEXUS. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
+Codigo y documentación copyright 2023-2024. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
 
 <!-- Markdown links & images -->
 
